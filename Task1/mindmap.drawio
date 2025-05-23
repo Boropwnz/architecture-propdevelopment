@@ -505,6 +505,27 @@
         <mxCell id="n6N-uMSX71TJe6v450SK-1918" value="Обесценивание данных&lt;div&gt;Значительный&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeColor=#d6b656;strokeWidth=3;fillColor=#fff2cc;fontFamily=Helvetica;fontSize=14;align=center;spacing=5;arcSize=7;perimeterSpacing=2;" vertex="1" parent="1">
           <mxGeometry x="960" y="-450" width="150" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="n6N-uMSX71TJe6v450SK-1934" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Потеря документов замедлит работу сотрудников, но они могут быть восстановлены&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="-230" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n6N-uMSX71TJe6v450SK-1935" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Внутренние документы могут дать инсайты конкурентам, но будут бесполезны сами по себе&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="-300" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n6N-uMSX71TJe6v450SK-1936" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Искажение документов приведет к путанице и замедлит работу сотрудников&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="-160" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n6N-uMSX71TJe6v450SK-1937" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Потеря документации внесет полную неразбериху в работу компании и приведет к большим издержкам&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="20" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n6N-uMSX71TJe6v450SK-1938" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Документация станет полезным инсайтом конкурентам, но не даст им готовых решений&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="-50" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n6N-uMSX71TJe6v450SK-1939" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Искажение документации приведет к путанице и замедлит работу сотрудников&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="90" width="490" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n6N-uMSX71TJe6v450SK-1940" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Неактуальная документация замедлит работу сотрудников&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1780" y="160" width="490" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
