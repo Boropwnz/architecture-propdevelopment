@@ -30,3 +30,12 @@
 
 
 Задание 5. Управление трафиком внутри кластера Kubertnetes
+
+[non-admin-api-allow.yaml](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task5/non-admin-api-allow.yaml)
+
+```
+PS S:\Software Architecture\Yandex Practice\architecture-propdevelopment\Task4> cd ..\Task5\
+PS S:\Software Architecture\Yandex Practice\architecture-propdevelopment\Task5> kubectl apply -f non-admin-api-allow.yaml
+networkpolicy.networking.k8s.io/allow-frontend-to-backend created
+networkpolicy.networking.k8s.io/admin-allow-frontend-to-backend created
+```
