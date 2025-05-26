@@ -1,0 +1,74 @@
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: read-dev
+  namespace: dev
+subjects:
+- kind: ServiceAccount
+  name: developer
+  apiGroup: ""
+  # apiGroup: rbac.authorization.k8s.io
+roleRef:
+  kind: Role
+  name: dev-reader
+  apiGroup: rbac.authorization.k8s.io
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: read-prod
+  namespace: prod
+subjects:
+- kind: ServiceAccount
+  name: support
+  apiGroup: ""
+  # apiGroup: rbac.authorization.k8s.io
+roleRef:
+  kind: Role
+  name: prod-reader
+  apiGroup: rbac.authorization.k8s.io
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: write-dev
+  namespace: dev
+subjects:
+- kind: ServiceAccount
+  name: devops
+  apiGroup: ""
+  # apiGroup: rbac.authorization.k8s.io
+roleRef:
+  kind: Role
+  name: dev-writer
+  apiGroup: rbac.authorization.k8s.io
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: write-prod
+  namespace: prod
+subjects:
+- kind: ServiceAccount
+  name: devops
+  apiGroup: ""
+  # apiGroup: rbac.authorization.k8s.io
+roleRef:
+  kind: Role
+  name: prod-writer
+  apiGroup: rbac.authorization.k8s.io
+---
+apiVersion: rbac.authorization.k8s.io/v1
+kind: RoleBinding
+metadata:
+  name: read-secure
+  namespace: secure
+subjects:
+- kind: ServiceAccount
+  name: security
+  apiGroup: ""
+  # apiGroup: rbac.authorization.k8s.io
+roleRef:
+  kind: Role
+  name: secrets-reader
+  apiGroup: rbac.authorization.k8s.io
