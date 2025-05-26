@@ -24,8 +24,9 @@
 
 [roles.yaml](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task4/roles.yaml)
 
-[bindings.yaml(https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task4/bindings.yaml)
+[bindings.yaml](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task4/bindings.yaml)
 
 ![Screen-shot](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task4/ps.jpg)
+
 
 Задание 5. Управление трафиком внутри кластера Kubertnetes
