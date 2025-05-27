@@ -20,6 +20,10 @@
 
 ![ContextDiagram.svg](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task3/ContextDiagram.svg)
 
+[PropDevelopment_С4_model.drawio](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task3/PropDevelopment_С4_model.drawio)
+
+![PropDevelopment_С4_model.svg](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task3/PropDevelopment_С4_model.svg)
+
 
 ## Задание 4. Защита доступа к кластеру Kubernetes
 
