@@ -7,16 +7,21 @@
 ![Картинка](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task1/mindmap.jpg)
 
 
-Задание 2. Разработка и заполнение проверочного листа для бизнес-систем
+## Задание 2. Разработка и заполнение проверочного листа для бизнес-систем
 
 [IB.md](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task2/IB.md)
 
 
-Задание 3. Внешние интеграции
+## Задание 3. Внешние интеграции
+
+[Требования](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task3/Requirements.md)
+
+[ContextDiagram.drawio](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task3/ContextDiagram.drawio)
+
+![ContextDiagram.svg](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task3/ContextDiagram.svg)
 
 
-
-Задание 4. Защита доступа к кластеру Kubernetes
+## Задание 4. Защита доступа к кластеру Kubernetes
 
 [Таблица ролей](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task4/roles_table.md)
 
@@ -29,7 +34,7 @@
 ![Screen-shot](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task4/ps.jpg)
 
 
-Задание 5. Управление трафиком внутри кластера Kubertnetes
+## Задание 5. Управление трафиком внутри кластера Kubertnetes
 
 [non-admin-api-allow.yaml](https://github.com/Boropwnz/architecture-propdevelopment/blob/sprint_7/Task5/non-admin-api-allow.yaml)
 
